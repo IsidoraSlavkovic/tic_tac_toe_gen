@@ -1,0 +1,6 @@
+build --copt="--std=c++17"
+build --copt="-O3"
+run --copt="--std=c++17"
+run --copt="-O3"
+test --copt="--std=c++17"
+test --copt="-O3"
